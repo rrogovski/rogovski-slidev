@@ -18,7 +18,7 @@ title: RR
 
 # Rodrigo Rogovski
 
-Quem é? Onde vive? Do que se alimenta?
+<div>Quem é? Onde vive? Do que se alimenta?</div>
 
 <!-- <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
