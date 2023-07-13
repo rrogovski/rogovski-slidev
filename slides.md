@@ -162,15 +162,15 @@ class: px-20
 
 <div style="display: flex; justify-content: space-between;" grid="~ cols-2 gap-2" m="-t-2">
 
-<img border="rounded" class="w-70" src="/media/astro01.jpg">
+<img border="rounded" class="w-100" src="/media/astro01.jpg">
 
-<img border="rounded" class="w-70" src="/media/astro02.jpg">
+<img border="rounded" class="w-100" src="/media/astro02.jpg">
 
 </div>
 
 <div style="display: flex; justify-content: center;">
 
-<img border="rounded" class="w-60" src="/media/astro03.jpg">
+<img border="rounded" class="w-60 -m-t-25" src="/media/astro03.jpg">
 
 </div>
 
@@ -273,15 +273,15 @@ class: px-20
 
 <div style="display: flex; justify-content: space-between;" grid="~ cols-2 gap-2" m="-t-2">
 
-<img border="rounded" class="w-60" src="/media/sinop01.jpg">
+<img border="rounded" class="w-80" src="/media/sinop01.jpg">
 
-<img border="rounded" class="w-60" src="/media/sinop02.jpg">
+<img border="rounded" class="w-80" src="/media/sinop02.jpg">
 
 </div>
 
 <div style="display: flex; justify-content: center;">
 
-<img border="rounded" class="w-80 -m-t-20" src="/media/sinop03.jpg">
+<img border="rounded" class="w-80 -m-t-25" src="/media/sinop03.jpg">
 
 </div>
 
