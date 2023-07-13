@@ -62,7 +62,7 @@ Um cara que escreve uns códigos aí, tenta tirar umas fotos como hobby, tenta a
 
 - 📝 **Recém formado** - Acabei a faculdade de SI agora no primeiro semestre 2023. <small>Será que vai sobrar tempo para jogar agora?</small>
 - 🌎 **Onde vive?** - No interior, de uma cidade do interior de MT, chamada Sinop
-- 📷 **Fotógrafo?** - Ô tadinho. Mas gente tenta
+- 📷 **Fotógrafo?** - Ô tadinho. Mas a gente tenta
 - 🧑‍💻 **Developer** - Sempre na versão beta
 
 <br>
@@ -119,7 +119,7 @@ h1 {
 <div grid="~ cols-2 gap-4">
 <div>
 
-Inicialmente os planos de fotografia, eram de fotos do céu noturno. Mas como diria Joseph Climber, a vida é uma caixinha de surpresas. Não deu certo muito certo e comecei a fotografar aves com um grupo de observadores aqui da cidade. Essas fotos podem ser conferidas no site [WikiAves](https://www.wikiaves.com.br/perfil_rogovski)
+Inicialmente os planos de fotografia, eram de fotos do céu noturno. Mas como diria Joseph Climber, a vida é uma caixinha de surpresas. Não deu cmuito certo e comecei a fotografar aves com um grupo de observadores aqui da cidade. Essas fotos podem ser conferidas no site [WikiAves](https://www.wikiaves.com.br/perfil_rogovski)
 
 </div>
 
@@ -306,7 +306,7 @@ preload: false
 
 # Blog?
 
-O Blog de um post só! 🫠
+O Blog de um post só! 😱
 
 <div class="w-10 relative mt-6">
   <div class="relative w-100 h-100">
